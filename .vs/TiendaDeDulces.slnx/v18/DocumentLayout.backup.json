@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tienda_dulces\\TiendaDeDulces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\tipospagonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\tipospagonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\tiposclientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\tiposclientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\proveedoresnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\proveedoresnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\promocionesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\promocionesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\productosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\productosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\pedidosproductos}negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\pedidosproductos}negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\pedidosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\pedidosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\paisesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\paisesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\movimientoinventarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\movimientoinventarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\marcasnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\marcasnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\lotenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\lotenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\facturasnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\facturasnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\estadospedidonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\estadospedidonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\entregasnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\entregasnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\empleadosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\empleadosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\clientesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\clientesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\ciuddesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\ciuddesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\categoriasnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\categoriasnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\cargosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\cargosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\calidadproveedoresnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\calidadproveedoresnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|d:\\tienda_dulces\\tiendadedulces\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F34FD0-A3E9-7802-646C-24F2EF793FAD}|lib_repositorios\\Aplicaciones_libreria.csproj|solutionrelative:lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\entregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\entregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\pedidosproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\pedidosproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\promociones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\promociones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\calidadproovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\calidadproovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\marcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\marcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\estadospedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\estadospedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\tipospago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\tipospago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\ciudades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\ciudades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\tiposcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\tiposcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\paises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\paises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|d:\\tienda_dulces\\tiendadedulces\\libreria_repositorios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E0CEC1-60C5-479F-BF91-296A96AFE6D3}|Libreria_Repositorios\\Libreria_repositorios.csproj|solutionrelative:libreria_repositorios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TiposPagoNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\TiposPagoNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\TiposPagoNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\TiposPagoNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\TiposPagoNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:15:08.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TiposCLienteNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\TiposCLienteNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\TiposCLienteNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\TiposCLienteNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\TiposCLienteNegocio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:14:36.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProveedoresNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\ProveedoresNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\ProveedoresNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\ProveedoresNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\ProveedoresNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:13:54.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PromocionesNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\PromocionesNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\PromocionesNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\PromocionesNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\PromocionesNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:13:36.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\ProductosNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\ProductosNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\ProductosNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\ProductosNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:13:18.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidosProductos}Negocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\PedidosProductos}Negocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\PedidosProductos}Negocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\PedidosProductos}Negocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\PedidosProductos}Negocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:12:53.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidosNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\PedidosNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\PedidosNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\PedidosNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\PedidosNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:12:06.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaisesNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\PaisesNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\PaisesNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\PaisesNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\PaisesNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:11:29.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovimientoInventarioNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\MovimientoInventarioNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\MovimientoInventarioNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\MovimientoInventarioNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\MovimientoInventarioNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:11:14.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MarcasNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\MarcasNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\MarcasNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\MarcasNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\MarcasNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:10:50.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoteNEgocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\LoteNEgocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\LoteNEgocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\LoteNEgocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\LoteNEgocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:10:31.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cargos.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Cargos.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Cargos.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Cargos.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Cargos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:17:28.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FacturasNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\FacturasNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\FacturasNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\FacturasNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\FacturasNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:10:19.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EstadosPedidoNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\EstadosPedidoNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\EstadosPedidoNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\EstadosPedidoNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\EstadosPedidoNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:09:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EntregasNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\EntregasNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\EntregasNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\EntregasNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\EntregasNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:09:14.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmpleadosNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\EmpleadosNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\EmpleadosNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\EmpleadosNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\EmpleadosNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:08:54.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientesNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\ClientesNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\ClientesNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\ClientesNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\ClientesNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:08:35.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CiuddesNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\CiuddesNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\CiuddesNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\CiuddesNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\CiuddesNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:08:21.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoriasNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\CategoriasNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\CategoriasNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\CategoriasNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\CategoriasNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:08:06.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CargosNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\CargosNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\CargosNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\CargosNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\CargosNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:07:47.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CalidadProveedoresNegocio.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\CalidadProveedoresNegocio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\CalidadProveedoresNegocio.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\CalidadProveedoresNegocio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\CalidadProveedoresNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:07:33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T02:47:03.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CalidadProovedores.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\CalidadProovedores.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\CalidadProovedores.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\CalidadProovedores.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\CalidadProovedores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:21:19.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Promociones.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Promociones.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Promociones.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Promociones.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Promociones.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:21:47.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Clientes.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Clientes.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Clientes.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Clientes.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:22:25.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Empleados.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Empleados.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Empleados.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Empleados.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:22:36.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Pedidos.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Pedidos.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Pedidos.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Pedidos.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:22:42.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PedidosProductos.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\PedidosProductos.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\PedidosProductos.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\PedidosProductos.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\PedidosProductos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:22:57.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Facturas.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Facturas.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Facturas.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Facturas.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Facturas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:23:12.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Entregas.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Entregas.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Entregas.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Entregas.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Entregas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:23:34.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MovimientoInventario.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\MovimientoInventario.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\MovimientoInventario.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\MovimientoInventario.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\MovimientoInventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:19:56.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Lote.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Lote.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Lote.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Lote.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Lote.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:19:14.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Productos.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Productos.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Productos.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Productos.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:18:55.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Marcas.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Marcas.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Marcas.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Marcas.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Marcas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:18:37.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Proveedores.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Proveedores.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Proveedores.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Proveedores.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Proveedores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:18:24.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EstadosPedido.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\EstadosPedido.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\EstadosPedido.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\EstadosPedido.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\EstadosPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:18:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TiposPago.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\TiposPago.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\TiposPago.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\TiposPago.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\TiposPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:17:37.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Ciudades.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Ciudades.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Ciudades.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Ciudades.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Ciudades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:17:18.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TiposCliente.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\TiposCliente.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\TiposCliente.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\TiposCliente.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\TiposCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:16:56.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Paises.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Paises.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Paises.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Paises.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Paises.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:16:41.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Categorias.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Entidades\\Categorias.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Entidades\\Categorias.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Entidades\\Categorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:16:19.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Class1.cs",
+              "RelativeDocumentMoniker": "Libreria_Repositorios\\Class1.cs",
+              "ToolTip": "D:\\Tienda_dulces\\TiendaDeDulces\\Libreria_Repositorios\\Class1.cs",
+              "RelativeToolTip": "Libreria_Repositorios\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:14:59.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
