@@ -1,9 +1,10 @@
 <Solution>
   <Folder Name="/1. Presentaciones/" />
   <Folder Name="/2. Servicios/">
-    <Project Path="lib_repositorios/Aplicaciones_libreria.csproj" />
+    <Project Path="2. Servicios/lib_repositorios/Aplicaciones_libreria.csproj" />
+    <Project Path="asp_servicios/asp_servicios.csproj" Id="2471bfa1-7f7c-4021-b6e5-ecd2dfee0b69" />
   </Folder>
   <Folder Name="/3.Nucleo/">
-    <Project Path="Libreria_Repositorios/Libreria_repositorios.csproj" Id="55e0cec1-60c5-479f-bf91-296a96afe6d3" />
+    <Project Path="3. Nucleo/Libreria_Repositorios/Libreria_repositorios.csproj" />
   </Folder>
 </Solution>

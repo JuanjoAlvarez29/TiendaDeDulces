@@ -1,10 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using Libreria_repositorios.Entidades;
 
 namespace Aplicaciones_libreria.Interfaces
 {
-    internal class ICiudadesNegocio
+    public interface ICiudadesNegocio
     {
+        List<Ciudades> Consultar();
+        Ciudades Guardar(Ciudades entidad);
+        Ciudades Modificar(Ciudades entidad);
+        bool Borrar(int id);
     }
 }

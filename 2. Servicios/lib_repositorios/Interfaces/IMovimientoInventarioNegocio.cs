@@ -1,10 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using Libreria_repositorios.Entidades;
 
 namespace Aplicaciones_libreria.Interfaces
 {
-    internal class IMovimientoInventarioNegocio
+    public interface IMovimientoInventarioNegocio
     {
+        List<MovimientoInventario> Consultar();
+        MovimientoInventario Guardar(MovimientoInventario entidad);
+        MovimientoInventario Modificar(MovimientoInventario entidad);
+        bool Borrar(int id);
     }
 }

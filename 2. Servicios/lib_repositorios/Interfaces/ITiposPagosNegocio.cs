@@ -1,10 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using Libreria_repositorios.Entidades;
 
 namespace Aplicaciones_libreria.Interfaces
 {
-    internal class ITiposPagosNegocio
+    public interface ITiposPagoNegocio
     {
+        List<TiposPago> Consultar();
+        TiposPago Guardar(TiposPago entidad);
+        TiposPago Modificar(TiposPago entidad);
+        bool Borrar(int id);
     }
 }

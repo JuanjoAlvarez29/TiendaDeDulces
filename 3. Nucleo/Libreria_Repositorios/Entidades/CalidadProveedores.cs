@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Libreria_repositorios.Entidades
 {
-    public class CalidadProvedores
+    public class CalidadProveedores
     {
         [Key] public int Id { get; set; }
         public int Calificacion { get; set; }

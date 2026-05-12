@@ -10,7 +10,7 @@ namespace Aplicaciones_libreria.Implementaciones
             optionsBuilder.UseSqlServer(this.StringConexion!, p => { });
             optionsBuilder.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
         }
-        public DbSet<CalidadProvedores>? CalidadProovedores { get; set; }
+        public DbSet<CalidadProveedores>? CalidadProovedores { get; set; }
         public DbSet<Cargos>? Cargos { get; set; }
         public DbSet<Categorias>? Categorias { get; set; }
         public DbSet<Ciudades>? Ciudades { get; set; }

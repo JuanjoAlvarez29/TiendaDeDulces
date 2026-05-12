@@ -1,10 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using Libreria_repositorios.Entidades;
 
 namespace Aplicaciones_libreria.Interfaces
 {
-    internal class ICargosNegocio
+    public interface ICargosNegocio
     {
+        List<Cargos> Consultar();
+        Cargos Guardar(Cargos entidad);
+        Cargos Modificar(Cargos entidad);
+        bool Borrar(int id);
     }
 }

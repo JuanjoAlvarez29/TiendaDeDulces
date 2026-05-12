@@ -1,10 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using Libreria_repositorios.Entidades;
 
 namespace Aplicaciones_libreria.Interfaces
 {
-    internal class ICategoriasNegocio
+    public interface ICategoriasNegocio
     {
+        List<Categorias> Consultar();
+        Categorias Guardar(Categorias entidad);
+        Categorias Modificar(Categorias entidad);
+        bool Borrar(int id);
     }
 }

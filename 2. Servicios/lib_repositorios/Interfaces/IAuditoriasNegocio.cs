@@ -1,10 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using Libreria_repositorios.Entidades;
 
 namespace Aplicaciones_libreria.Interfaces
 {
-    internal class IAuditoriasNegocio
+    public interface IAuditoriasNegocio
     {
+        List<Auditorias> Consultar();
+        Auditorias Guardar(Auditorias entidad);
+        Auditorias Modificar(Auditorias entidad);
+        bool Borrar(int id);
     }
 }

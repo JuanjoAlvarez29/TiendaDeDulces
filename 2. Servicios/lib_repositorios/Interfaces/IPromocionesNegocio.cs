@@ -1,10 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Aplicaciones_libreria.Entidades;
+using Libreria_repositorios.Entidades;
 
 namespace Aplicaciones_libreria.Interfaces
 {
-    internal class IPromocionesNegocio
+    public interface IPromocionesNegocio
     {
+        List<Promociones> Consultar();
+        Promociones Guardar(Promociones entidad);
+        Promociones Modificar(Promociones entidad);
+        bool Borrar(int id);
+
+        // Métodos extra
+        decimal AplicarPromocion(int id, decimal precio);
+        bool EstaVigente(int id);
     }
 }

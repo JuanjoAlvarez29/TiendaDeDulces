@@ -1,10 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using Libreria_repositorios.Entidades;
 
 namespace Aplicaciones_libreria.Interfaces
 {
-    internal class IMarcasNegocio
+    public interface IMarcasNegocio
     {
+        List<Marcas> Consultar();
+        Marcas Guardar(Marcas entidad);
+        Marcas Modificar(Marcas entidad);
+        bool Borrar(int id);
     }
 }

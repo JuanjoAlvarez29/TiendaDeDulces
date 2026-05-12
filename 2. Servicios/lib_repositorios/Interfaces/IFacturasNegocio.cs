@@ -1,10 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using Libreria_repositorios.Entidades;
 
 namespace Aplicaciones_libreria.Interfaces
 {
-    internal class IFacturasNegocio
+    public interface IFacturasNegocio
     {
+        List<Facturas> Consultar();
+        Facturas Guardar(Facturas entidad);
+        Facturas Modificar(Facturas entidad);
+        bool Borrar(int id);
+
+        // Métodos extra
+        decimal CalcularIva(int idFactura);
+        decimal CalcularTotalConIva(int idFactura);
     }
 }

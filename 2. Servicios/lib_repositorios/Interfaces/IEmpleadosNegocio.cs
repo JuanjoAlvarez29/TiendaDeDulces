@@ -1,10 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using Libreria_repositorios.Entidades;
 
 namespace Aplicaciones_libreria.Interfaces
 {
-    internal class IEmpleadosNegocio
+    public interface IEmpleadosNegocio
     {
+        List<Empleados> Consultar();
+        Empleados Guardar(Empleados entidad);
+        Empleados Modificar(Empleados entidad);
+        bool Borrar(int id);
     }
 }

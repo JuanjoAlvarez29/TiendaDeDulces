@@ -4,20 +4,20 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Aplicaciones_libreria.Implementaciones
 {
-    public class CalidadProveedorNegocio : ICalidadProveedorNegocio
+    public class CalidadProveedorNegocio : ICalidadProveedoresNegocio
     {
         private IConexion? _conexion;
 
-        public List<CalidadProveedor> Consultar()
+        public List<CalidadProveedores> Consultar()
         {
             _conexion = new Conexion();
             _conexion.StringConexion = Configuraciones.obtener("StringConexion");
-            return _conexion.CalidadProveedor!
+            return _conexion.CalidadProveedores!
                 .Include(c => c.Proveedor)
                 .ToList();
         }
 
-        public CalidadProveedor Guardar(CalidadProveedor entidad)
+        public CalidadProveedores Guardar(CalidadProveedores entidad)
         {
             _conexion = new Conexion();
             _conexion.StringConexion = Configuraciones.obtener("StringConexion");
@@ -26,7 +26,7 @@ namespace Aplicaciones_libreria.Implementaciones
             return entidad;
         }
 
-        public CalidadProveedor Modificar(CalidadProveedor entidad)
+        public CalidadProveedores Modificar(CalidadProveedores entidad)
         {
             _conexion = new Conexion();
             _conexion.StringConexion = Configuraciones.obtener("StringConexion");

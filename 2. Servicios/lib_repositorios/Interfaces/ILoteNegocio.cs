@@ -1,10 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using Libreria_repositorios.Entidades;
 
 namespace Aplicaciones_libreria.Interfaces
 {
-    internal class ILoteNegocio
+    public interface ILoteNegocio
     {
+        List<Lote> Consultar();
+        Lote Guardar(Lote entidad);
+        Lote Modificar(Lote entidad);
+        bool Borrar(int id);
+
+        // Métodos extra
+        bool EsStockCritico(int id, int minimo);
+        bool EstaVencido(int id);
     }
 }

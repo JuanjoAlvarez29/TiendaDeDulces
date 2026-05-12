@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\3. Nucleo\Libreria_Repositorios\Libreria_repositorios.csproj" />
     <ProjectReference Include="..\Libreria_Repositorios\Libreria_repositorios.csproj" />
   </ItemGroup>
 

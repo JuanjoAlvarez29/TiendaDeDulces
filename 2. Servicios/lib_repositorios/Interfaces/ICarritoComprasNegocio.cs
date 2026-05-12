@@ -1,10 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using Libreria_repositorios.Entidades;
 
 namespace Aplicaciones_libreria.Interfaces
 {
-    internal class ICarritoComprasNegocio
+    public interface ICarritoComprasNegocio
     {
+        List<CarritoCompras> Consultar();
+        CarritoCompras Guardar(CarritoCompras entidad);
+        CarritoCompras Modificar(CarritoCompras entidad);
+        bool Borrar(int id);
     }
 }
